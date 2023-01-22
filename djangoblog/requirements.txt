@@ -96,7 +96,7 @@ Pygments==2.7.4
 pylint==2.6.0
 pyparsing==2.4.7
 pyrsistent==0.17.3
-python-dateutil==2.8.1
+python-dateutil==2.8.0
 pytrends==4.7.2
 pyttsx3==2.87
 pytz==2019.3
